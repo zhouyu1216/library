@@ -1,7 +1,6 @@
 #include "Student.h"
 #include <iostream>
 #include <algorithm>
-
 Student::Student()
     : id("000000"), name("Unknown"), department("Unknown"), maxBorrow(5), borrowedCount(0) {}
 
