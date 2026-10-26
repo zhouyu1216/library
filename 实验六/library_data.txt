@@ -1,0 +1,4 @@
+3
+GeneralBook C++Primer 9780321714114 Addison-Wesley 128 976 0 Lippman Programming
+Magazine NationalGeographic 9781234567890 NatGeo 35 120 1 202 October
+EBook EffectiveC++ 9780321334879 Addison-Wesley 50 320 1 5.5 PDF
