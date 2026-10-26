@@ -35,3 +35,4 @@ int main() {
     system("pause");
     return 0;
 }
+// 实验二：组合与依赖关系完成
